@@ -9,7 +9,9 @@ Tutorial Inject SLASH Wuthering Waves.
 5. setelah submit akan dapat role wuwa sesuai key yang di claim. <img width="1352" height="276" alt="image" src="https://github.com/user-attachments/assets/06c4ea26-0568-45ee-9d79-50be54b94952" />
 6. Setelah dapat role. Silahkan pergi ke hwid-check-tools<img width="1312" height="402" alt="image" src="https://github.com/user-attachments/assets/35de2a3b-ebcf-497d-9d0c-8ca05618d45d" />
 7. download kemudian buka, maka akan muncul hwid nya tinggal di blok kodenya kemudian CTRL + C <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/d5c2ef18-a273-4683-b8e8-c7fd5add1e7e" />
-8. Jika sudah balik lagi ke claim-key, kemudian klik paling atas <img width="479" height="301" alt="image" src="https://github.com/user-attachments/assets/baca1559-60c1-4dc4-861a-571506690b34" />
+
+8. Jika sudah balik lagi ke claim-key, kemudian klik paling atas <img width="1349" height="158" alt="image" src="https://github.com/user-attachments/assets/50bc4c07-b2f8-4f74-b6c2-cb675501ed58" />
+
 
 9. maka diminta untuk input hwid : <img width="480" height="303" alt="image" src="https://github.com/user-attachments/assets/90a66fb5-704d-4bd3-a31b-8a2cf60bc381" />
 
@@ -33,7 +35,9 @@ Tutorial Inject SLASH Solo Leveling Arise.
 5. setelah submit akan dapat role sla sesuai key yang di claim. <img width="1352" height="276" alt="image" src="https://github.com/user-attachments/assets/06c4ea26-0568-45ee-9d79-50be54b94952" />
 6. Setelah dapat role. Silahkan pergi ke hwid-check-tools<img width="1312" height="402" alt="image" src="https://github.com/user-attachments/assets/35de2a3b-ebcf-497d-9d0c-8ca05618d45d" />
 7. download kemudian buka, maka akan muncul hwid nya tinggal di blok kodenya kemudian CTRL + C <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/d5c2ef18-a273-4683-b8e8-c7fd5add1e7e" />
-8. Jika sudah balik lagi ke claim-key, kemudian klik paling atas <img width="479" height="301" alt="image" src="https://github.com/user-attachments/assets/baca1559-60c1-4dc4-861a-571506690b34" />
+
+8. Jika sudah balik lagi ke claim-key, kemudian klik paling atas <img width="1349" height="158" alt="image" src="https://github.com/user-attachments/assets/21eecd84-1a94-4695-b204-50e49aef3739" />
+
 
 9. maka diminta untuk input hwid <img width="480" height="303" alt="image" src="https://github.com/user-attachments/assets/90a66fb5-704d-4bd3-a31b-8a2cf60bc381" />
 
