@@ -15,17 +15,18 @@ Tutorial Inject SLASH Wuthering Waves.
 <img width="1349" height="158" alt="image" src="https://github.com/user-attachments/assets/50bc4c07-b2f8-4f74-b6c2-cb675501ed58" />
 
 
-9. maka diminta untuk input hwid : <img width="480" height="303" alt="image" src="https://github.com/user-attachments/assets/90a66fb5-704d-4bd3-a31b-8a2cf60bc381" />
+9. maka diminta untuk input hwid : 
+<img width="480" height="303" alt="image" src="https://github.com/user-attachments/assets/90a66fb5-704d-4bd3-a31b-8a2cf60bc381" />
 
 10.Dikarenakan kita sudah copy hwid yang tadi di step 7. langsung saja CTRL + V kemudian submit <img width="1346" height="101" alt="image" src="https://github.com/user-attachments/assets/a9c6ae7d-83f7-47c9-8aea-8bb850860f99" />
 
-11. setelah berhasil <img width="1592" height="628" alt="image" src="https://github.com/user-attachments/assets/2c49c185-06cb-4fa0-afef-d786abd1a012" />
-12. download loader wuwanya sesuai di gambar
+11. setelah berhasil, download loader wuwanya sesuai di gambar 
+<img width="1592" height="628" alt="image" src="https://github.com/user-attachments/assets/2c49c185-06cb-4fa0-afef-d786abd1a012" />
 
-13. jika sudah silahkan jalankan loadernya: <img width="937" height="433" alt="image" src="https://github.com/user-attachments/assets/83e70947-acdb-4997-889c-fc1b71374860" />
+12. jika sudah silahkan jalankan loadernya: <img width="937" height="433" alt="image" src="https://github.com/user-attachments/assets/83e70947-acdb-4997-889c-fc1b71374860" />
 
-14. buka loader wuthering waves kemudian klik jalankan.
-15. Tunggu dan akan muncul menu di browser anda. Selesai!
+13. buka loader wuthering waves kemudian klik jalankan.
+14. Tunggu dan akan muncul menu di browser anda. Selesai!
 
 Tutorial Inject SLASH Solo Leveling Arise.
 1. join dulu discord server slash : https://discord.gg/Dd6Ey7MS
