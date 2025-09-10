@@ -46,11 +46,13 @@ Tutorial Inject SLASH Solo Leveling Arise.
 <img width="1349" height="158" alt="image" src="https://github.com/user-attachments/assets/21eecd84-1a94-4695-b204-50e49aef3739" />
 
 
-11. maka diminta untuk input hwid <img width="480" height="303" alt="image" src="https://github.com/user-attachments/assets/90a66fb5-704d-4bd3-a31b-8a2cf60bc381" />
+11. maka diminta untuk input hwid
+<img width="480" height="303" alt="image" src="https://github.com/user-attachments/assets/90a66fb5-704d-4bd3-a31b-8a2cf60bc381" />
 
 10.Dikarenakan kita sudah copy hwid yang tadi di step 7. langsung saja CTRL + V kemudian submit <img width="1346" height="101" alt="image" src="https://github.com/user-attachments/assets/a9c6ae7d-83f7-47c9-8aea-8bb850860f99" />
 11. setelah berhasil 
 12. download loader SLAnya sesuai di gambar<img width="1540" height="560" alt="image" src="https://github.com/user-attachments/assets/5b325b30-afbb-4d82-9168-5db10e53f158" />
 13. jika sudah silahkan jalankan loadernya <img width="937" height="433" alt="image" src="https://github.com/user-attachments/assets/4cef72ae-cfb1-4107-acb2-048748a7a58e" />
 14. buka loader solo leveling arise kemduian klik jalankan.
-15. Tunggu dan akan muncul menu di ingame buka tutup menu dengan cara Klik insert pada keyboard.
+
+15. Tunggu dan akan muncul menu di ingame buka tutup menu dengan cara Klik insert pada keyboard. Selesai!
