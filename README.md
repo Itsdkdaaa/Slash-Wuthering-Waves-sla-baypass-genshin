@@ -2,7 +2,7 @@
 Tutorial Inject SLASH Wuthering Waves.
 1. join dulu discord server slash : https://discord.gg/Dd6Ey7MS
 2. setelah join klik (claim key) <img width="1351" height="428" alt="image" src="https://github.com/user-attachments/assets/86094c08-d53d-4d83-8c9c-383563d25c41" />
-3. setelah klik claim key maka akan muncul License verification : <img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/1237ad57-b4d5-4d93-b5d0-18b6d0554658" />
+3. setelah klik claim key maka akan muncul License verification isi dengan key yang telah dibeli melalui web : <img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/1237ad57-b4d5-4d93-b5d0-18b6d0554658" />
 
 4. kemudian submit :
 <img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/c1de4a88-172a-4398-8dbf-b63ac38a38e9" />
@@ -33,7 +33,7 @@ Tutorial Inject SLASH Solo Leveling Arise.
 2. setelah join klik (claim key) 
 <img width="383" height="430" alt="image" src="https://github.com/user-attachments/assets/835e8782-9b70-4b99-a695-f6335042852d" />
 
-3. setelah klik claim key maka akan muncul License verification : <img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/1237ad57-b4d5-4d93-b5d0-18b6d0554658" />
+3. setelah klik claim key maka akan muncul License verification isi dengan key yang telah dibeli melalui web : <img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/1237ad57-b4d5-4d93-b5d0-18b6d0554658" />
 
 4. kemudian submit
 <img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/c1de4a88-172a-4398-8dbf-b63ac38a38e9" />
