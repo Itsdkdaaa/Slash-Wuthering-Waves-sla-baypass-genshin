@@ -3,27 +3,28 @@ Tutorial Inject SLASH Wuthering Waves.
 1. join dulu discord server slash : https://discord.gg/Dd6Ey7MS
 2. setelah join klik (claim key) <img width="1351" height="428" alt="image" src="https://github.com/user-attachments/assets/86094c08-d53d-4d83-8c9c-383563d25c41" />
 3. setelah klik claim key maka akan muncul License verification : <img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/1237ad57-b4d5-4d93-b5d0-18b6d0554658" />
-4. kemudian submit : <img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/c1de4a88-172a-4398-8dbf-b63ac38a38e9" />
-5. setelah submit akan dapat role wuwa sesuai key yang di claim. <img width="1352" height="276" alt="image" src="https://github.com/user-attachments/assets/06c4ea26-0568-45ee-9d79-50be54b94952" />
-6. Setelah dapat role. Silahkan pergi ke hwid-check-tools<img width="1312" height="402" alt="image" src="https://github.com/user-attachments/assets/35de2a3b-ebcf-497d-9d0c-8ca05618d45d" />
-7. download kemudian buka, maka akan muncul hwid nya tinggal di blok kodenya kemudian CTRL + C <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/d5c2ef18-a273-4683-b8e8-c7fd5add1e7e" />
+4. kemudian submit :
+<img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/c1de4a88-172a-4398-8dbf-b63ac38a38e9" />
+6. setelah submit akan dapat role wuwa sesuai key yang di claim. <img width="1352" height="276" alt="image" src="https://github.com/user-attachments/assets/06c4ea26-0568-45ee-9d79-50be54b94952" />
+7. Setelah dapat role. Silahkan pergi ke hwid-check-tools<img width="1312" height="402" alt="image" src="https://github.com/user-attachments/assets/35de2a3b-ebcf-497d-9d0c-8ca05618d45d" />
+8. download kemudian buka, maka akan muncul hwid nya tinggal di blok kodenya kemudian CTRL + C <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/d5c2ef18-a273-4683-b8e8-c7fd5add1e7e" />
 
-8. jika sudah balik lagi ke claim-key, kemudian klik paling atas 
+9. jika sudah balik lagi ke claim-key, kemudian klik paling atas 
 <img width="1349" height="158" alt="image" src="https://github.com/user-attachments/assets/50bc4c07-b2f8-4f74-b6c2-cb675501ed58" />
 
 
-9. maka diminta untuk input hwid : 
+10. maka diminta untuk input hwid : 
 <img width="480" height="303" alt="image" src="https://github.com/user-attachments/assets/90a66fb5-704d-4bd3-a31b-8a2cf60bc381" />
 
-10. dikarenakan kita sudah copy hwid yang tadi di step 7. langsung saja CTRL + V kemudian submit <img width="1346" height="101" alt="image" src="https://github.com/user-attachments/assets/a9c6ae7d-83f7-47c9-8aea-8bb850860f99" />
+11. dikarenakan kita sudah copy hwid yang tadi di step 7. langsung saja CTRL + V kemudian submit <img width="1346" height="101" alt="image" src="https://github.com/user-attachments/assets/a9c6ae7d-83f7-47c9-8aea-8bb850860f99" />
 
-11. setelah berhasil, download loader wuwanya sesuai di gambar 
+12. setelah berhasil, download loader wuwanya sesuai di gambar 
 <img width="1592" height="628" alt="image" src="https://github.com/user-attachments/assets/2c49c185-06cb-4fa0-afef-d786abd1a012" />
 
-12. jika sudah silahkan jalankan loadernya: <img width="937" height="433" alt="image" src="https://github.com/user-attachments/assets/83e70947-acdb-4997-889c-fc1b71374860" />
+13. jika sudah silahkan jalankan loadernya: <img width="937" height="433" alt="image" src="https://github.com/user-attachments/assets/83e70947-acdb-4997-889c-fc1b71374860" />
 
-13. buka loader wuthering waves kemudian klik jalankan.
-14. Tunggu dan akan muncul menu di browser anda. Selesai!
+14. buka loader wuthering waves kemudian klik jalankan.
+15. Tunggu dan akan muncul menu di browser anda. Selesai!
 
 Tutorial Inject SLASH Solo Leveling Arise.
 1. join dulu discord server slash : https://discord.gg/Dd6Ey7MS
