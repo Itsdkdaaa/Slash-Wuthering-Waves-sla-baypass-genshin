@@ -32,7 +32,7 @@
 14. buka loader wuthering waves kemudian klik jalankan.
 15. Tunggu dan akan muncul menu di browser anda. Selesai!
 
-Tutorial Inject SLASH Solo Leveling Arise.
+**Tutorial Inject SLASH Solo Leveling Arise.**
 1. join dulu discord server slash : https://discord.gg/Dd6Ey7MS
 2. setelah join klik (claim key) 
 <img width="383" height="430" alt="image" src="https://github.com/user-attachments/assets/835e8782-9b70-4b99-a695-f6335042852d" />
