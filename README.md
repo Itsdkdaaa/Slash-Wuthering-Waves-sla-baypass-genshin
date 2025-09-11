@@ -1,5 +1,9 @@
-# Slash-Wuthering-Waves-sla-baypass-genshin
-Tutorial Inject SLASH Wuthering Waves.
+# Cara Pasang Slash Wuthering Waves & Solo Leveling :Arise (Untuk genshin silahkan Berhenti di guide nomor 11)
+**Silahkan ikuti Discord server Maxistore, Untuk Code Vocher, Giveaway, Dan Informasi Update di : https://restorecord.com/verify/Maxistore.id**
+
+**0. Silahkan Non-Aktifkan Windows Defender terlebih dahulu**
+![1](https://github.com/user-attachments/assets/96a35eab-fbfb-4cce-a9f2-cd433202c27e)
+
 1. join dulu discord server slash : https://discord.gg/Dd6Ey7MS
 2. setelah join klik (claim key) <img width="1351" height="428" alt="image" src="https://github.com/user-attachments/assets/86094c08-d53d-4d83-8c9c-383563d25c41" />
 3. setelah klik claim key maka akan muncul License verification isi dengan key yang telah dibeli melalui web : <img width="482" height="311" alt="image" src="https://github.com/user-attachments/assets/1237ad57-b4d5-4d93-b5d0-18b6d0554658" />
