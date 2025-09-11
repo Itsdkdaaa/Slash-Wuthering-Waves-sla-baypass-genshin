@@ -1,4 +1,4 @@
-# Cara Pasang Slash Wuthering Waves & Solo Leveling :Arise (Untuk genshin silahkan Berhenti di guide nomor 11)
+# Cara Pasang Slash Wuthering Waves & Solo Leveling :Arise (Untuk genshin atau freebies lainnya. silahkan Berhenti di guide nomor 11)
 **Silahkan ikuti Discord server Maxistore, Untuk Code Vocher, Giveaway, Dan Informasi Update di : https://restorecord.com/verify/Maxistore.id**
 
 **0. Silahkan Non-Aktifkan Windows Defender terlebih dahulu**
