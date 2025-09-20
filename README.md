@@ -29,7 +29,8 @@
 
 13. jika sudah silahkan jalankan loadernya: <img width="937" height="433" alt="image" src="https://github.com/user-attachments/assets/83e70947-acdb-4997-889c-fc1b71374860" />
 
-14. buka loader wuthering waves kemudian klik jalankan.
+14. ketika muncul "Please start game" buka wuthering waves via launcher kemudian copy path di console nya.
+15. setelah itu buka config.ini paste ke "path" save, dan jalankan kembali loader dan gamenya.
 15. Tunggu dan akan muncul menu di browser anda. Selesai!
 
 **Tutorial Inject SLASH Solo Leveling Arise.**
